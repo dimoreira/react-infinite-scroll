@@ -1,0 +1,30 @@
+{
+	"meta": {
+		"status": 200,
+		"error": false,
+		"message": "",
+		"next_page_url": "http://localhost:8000/api/projects-2.json"
+	},
+	"data": [
+		{
+			"name": "Project 1",
+			"deadline": "05/2015"
+		},
+		{
+			"name": "Project 2",
+			"deadline": "07/2015"
+		},
+		{
+			"name": "Project 3",
+			"deadline": "11/2015"
+		},
+		{
+			"name": "Project 4",
+			"deadline": "07/2015"
+		},
+		{
+			"name": "Project 5",
+			"deadline": "06/2015"
+		}
+	]
+}
